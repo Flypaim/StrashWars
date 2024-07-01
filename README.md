@@ -1,2 +1,2 @@
 # StrashWars
-Prototipo de video basico
+Prototipo de video juego Sci-Fy basico
